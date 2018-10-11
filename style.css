@@ -1,0 +1,27 @@
+body {
+    background-color: #40403E;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 10vw;
+    text-align: center;
+    font-family: 'Freckle Face', cursive;
+}
+
+.align {
+    text-align: center;
+}
+
+.ranking{
+    color: #A4E863;
+    font-family: 'Ceviche One', cursive;
+    font-size: 6vw;
+}
+
+
+.player {
+    color: #E86A88;
+    font-family: 'Charmonman', cursive;
+    font-size: 3vw;
+}
